@@ -1,0 +1,144 @@
+.navbar,.footer{
+            background: black;
+            height: 10vh;
+        }
+
+
+
+       .banner{
+            background-image: url(neon-4k-hd-best-for-desktop-wallpaper-preview.jpg);
+            background-size:cover;
+            height: 50vh
+
+        }
+
+
+
+       .card-section{
+            background: darkblue;
+            height: 50vh;
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+        }
+
+
+
+       .child{
+            width: 30%;
+            height: 40vh;
+            border: 3px solid black;
+        }
+
+
+
+       .channel{
+            width: 100%;
+            height: 100vh;
+            background: darkred;
+            display: flex;
+        }
+
+
+
+       .btngp{
+            width: 20%;
+            border: 2px darkred;
+
+
+
+       }
+
+
+
+       .btn{
+            width: 40%;
+            height: 5vh;
+            border-radius: 10%;
+        }
+
+
+
+       .view-section{
+            width: 80%;
+        }
+
+
+
+
+        .ytbanner{
+            padding-left: 40%;
+        }
+
+
+
+       .recommed{
+            display: flex;
+            justify-content: space-between;
+        }
+
+
+
+       .video{
+            display: flex;
+            border: 3px solid black;
+            width: 18%;
+            height: 14vh;
+            justify-content: space-around;
+        }
+
+
+
+       .recent{
+            display: flex;
+            justify-content: space-between;
+        }
+
+
+
+       .footer{
+            display: flex;
+            height: 30vh;
+            justify-content: space-around;
+        }
+
+
+
+       .social-media,.map,.contant{
+            width: 30%;
+        }
+
+
+
+
+        #nav ul li{
+            float: left;
+            list-style: none;
+            margin: 0 5px;
+            color:white;
+            opacity: 0.3;
+            font-size: 25px;
+        }
+
+        #nav ul li:hover{
+             opacity: 1;
+             cursor: pointer;
+             text-shadow: 2px 2px 5px darkred;
+              
+
+        }
+
+
+
+       body{
+            margin: 0;
+
+        }
+
+
+
+       #nav{
+            overflow: hidden;
+        }
+
+        
